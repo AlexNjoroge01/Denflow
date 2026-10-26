@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DenFlow">
+  <rect width="64" height="64" rx="16" fill="#0A1C9C"/>
+  <path d="M32 12c7.6 9.2 14 16 14 24.2A14 14 0 0 1 32 50a14 14 0 0 1-14-13.8C18 28 24.4 21.2 32 12Z" fill="#FFFFFF"/>
+  <path d="M26 36.5a6.4 6.4 0 0 0 5.4 6.3" fill="none" stroke="#0A1C9C" stroke-width="3" stroke-linecap="round" opacity="0.65"/>
+</svg>
